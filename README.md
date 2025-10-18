@@ -24,3 +24,10 @@
 Также приложите вывод команды с двух нод:
 <img width="1732" height="1128" alt="image" src="https://github.com/user-attachments/assets/d22765f1-0411-4821-a312-609fe6c6d486" />
 <img width="1963" height="1136" alt="image" src="https://github.com/user-attachments/assets/b2789c98-5770-489e-abd5-04f67acdd0ab" />
+
+Для закрепления материала снова запустите скрипт producer.py и приложите скриншот выполнения команды на каждой из нод:
+<img width="1356" height="134" alt="image" src="https://github.com/user-attachments/assets/c2761b0a-e313-4fcc-b39b-5de6fb01fca0" />
+<img width="1285" height="135" alt="image" src="https://github.com/user-attachments/assets/f2c7cdcc-2efe-4499-a1db-5b570542efee" />
+
+После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
+<img width="815" height="54" alt="image" src="https://github.com/user-attachments/assets/afd35f64-a903-4944-9e34-567ffff1c0e4" />
